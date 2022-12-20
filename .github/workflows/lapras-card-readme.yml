@@ -13,7 +13,9 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@main
         with:
           SHARE_ID: "2YK73VF"
-          LANG: "ja"
+          LANG: "en"
+          ICON_FIRST: "#004736"
+          ICON_SECOND: "#00bf8f"
           BACKGROUND_FIRST: "#020E27"
           BACKGROUND_SECOND: "#0E5593"
           CARD_WIDTH: "400"
