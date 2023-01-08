@@ -1,6 +1,6 @@
 # My Profile
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/2YK73VF" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.54&b=3.36&i=3.68&b1=%23020E27&b2=%230E5593&i1=%23004736&i2=%2300bf8f&l=en" width="400" ></a>  
-Last Updated on 1/7/2023, 12:51:12 AM
+<a href="https://lapras.com/public/2YK73VF" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.53&b=3.36&i=3.68&b1=%23020E27&b2=%230E5593&i1=%23004736&i2=%2300bf8f&l=en" width="400" ></a>  
+Last Updated on 1/8/2023, 12:55:31 AM
 <!--END_SECTION:lapras-card-->
